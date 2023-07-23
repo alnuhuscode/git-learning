@@ -28,7 +28,12 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
+<<<<<<< HEAD
 	<h3>Column 1</h3>
+=======
+      <h3>Column 1</h3>
+      <p>Lorem ipsum dolor..</p>
+>>>>>>> 898fe14 (Update index.js)
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
