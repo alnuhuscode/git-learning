@@ -28,6 +28,7 @@
 <div class="container">
   <div class="row">
     <div class="col-sm-4">
+	<h3>Column 1</h3>
     </div>
     <div class="col-sm-4">
       <h3>Column 2</h3>
